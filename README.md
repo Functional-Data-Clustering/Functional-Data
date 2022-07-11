@@ -1,2 +1,2 @@
 # Data
- A repository for function data
+ An open repository of functional data.
