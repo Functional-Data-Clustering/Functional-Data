@@ -16,6 +16,11 @@
       <td>UEA & UCR Time Series Classification Repository</td>
       <td>https://www.timeseriesclassification.com/description.php?Dataset=UWaveGestureLibrary</td>
     </tr>
+    <tr>
+      <td>ECG200</td>
+      <td>UEA & UCR Time Series Classification Repository</td>
+      <td>https://www.timeseriesclassification.com/description.php?Dataset=ECG200</td>
+    </tr>
   </tbody>
 </table>
 
