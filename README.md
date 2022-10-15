@@ -13,7 +13,7 @@
   <tbody>
     <tr>
       <td>UWaveGestureLibrary</td>
-      <td>UEA \& UCR Time Series Classification Repository</td>
+      <td>UEA & UCR Time Series Classification Repository</td>
       <td>https://www.timeseriesclassification.com/description.php?Dataset=UWaveGestureLibrary</td>
     </tr>
   </tbody>
