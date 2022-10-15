@@ -27,12 +27,12 @@
 
 
 
- <h2>Vector-Valued Function Data</h2>
+ <h2>Vector-Valued Functional Data</h2>
  
  
 
 
- <h2>Dependent Function Data</h2>
+ <h2>Dependent Functional Data</h2>
  
  
 
