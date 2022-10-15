@@ -1,6 +1,9 @@
 # Data
  An open repository of functional data.
  
+ <h1>d=1, p=1;</h1>
+ 
+ 
   
 <table border="1">
   <thead>
