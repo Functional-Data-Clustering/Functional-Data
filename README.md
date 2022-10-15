@@ -1,9 +1,6 @@
 # Data
  An open repository of functional data.
  
- <h1>d=1, p=1;</h1>
- 
- 
   
 <table border="1">
   <thead>
@@ -28,5 +25,15 @@
 </table>
 
 
+
+
+ <h1>Vector-Valued Function Data</h1>
+ 
+ 
+
+
+ <h1>Dependent Function Data</h1>
+ 
+ 
 
 
