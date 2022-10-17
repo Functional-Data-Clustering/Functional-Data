@@ -7,19 +7,19 @@
     <tr>
       <th>Dataset Name</th>
       <th>Original Repository</th>
-      <th>Link</th>
+      <th>Information</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>UWaveGestureLibrary</td>
+      <td><a href="https://www.timeseriesclassification.com/description.php?Dataset=UWaveGestureLibrary">UWaveGestureLibrary</a></td>
       <td>UEA & UCR Time Series Classification Repository</td>
-      <td>https://www.timeseriesclassification.com/description.php?Dataset=UWaveGestureLibrary</td>
+      <td>...</td>
     </tr>
     <tr>
-      <td>ECG200</td>
+      <td><a href="https://www.timeseriesclassification.com/description.php?Dataset=ECG200">ECG200</a></td>
       <td>UEA & UCR Time Series Classification Repository</td>
-      <td>https://www.timeseriesclassification.com/description.php?Dataset=ECG200</td>
+      <td>...</td>
     </tr>
        <tr>
       <td>...</td>
