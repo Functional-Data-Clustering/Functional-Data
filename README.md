@@ -22,6 +22,7 @@
       <td><a href="https://www.timeseriesclassification.com/description.php?Dataset=ECG200">ECG200</a></td>
       <td>UEA & UCR Time Series Classification Repository</td>
       <td>...</td>
+      <td>...</td>
     </tr>
        <tr>
       <td>...</td>
