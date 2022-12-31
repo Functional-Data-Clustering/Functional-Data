@@ -35,6 +35,33 @@
       <td>...</td>
     </tr>
     <tr>
+      <td><a href="https://github.com/StevenGolovkine/fcubt" target="_blank">EEG</a></td>
+      <td>UCI Machine Learning Repository</td>
+      <td>EEG</td>
+      <td>Classification</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+    </tr>
+    <tr>
+      <td><a href="https://doi.org/10.1080/01621459.2020.1764363" target="_blank">China_PM25</a></td>
+      <td>Publisher</td>
+      <td>Environment</td>
+      <td>Clustering</td>
+      <td>338</td>
+      <td>731</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="https://doi.org/10.1080/01621459.2020.1764363" target="_blank">BTH_PM25</a></td>
+      <td>Publisher</td>
+      <td>Environment</td>
+      <td>Clustering</td>
+      <td>73</td>
+      <td>48</td>
+      <td>1</td>
+    </tr>
+    <tr>
       <td>...</td>
       <td>...</td>
       <td>...</td>
@@ -97,47 +124,4 @@
 
 
 
- <h2>Dependent Functional Data</h2>
- 
- <table border="1">
-  <thead align="left">
-    <tr>
-      <th>Name</th>
-      <th>Original Repository</th>
-      <th>Field</th>
-      <th>Task</th>
-      <th>Size</th>
-      <th>Length</th>
-      <th>Dimension</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/StevenGolovkine/fcubt" target="_blank">EEG</a></td>
-      <td>UCI Machine Learning Repository</td>
-      <td>EEG</td>
-      <td>Classification</td>
-      <td>...</td>
-      <td>...</td>
-      <td>...</td>
-    </tr>
-    <tr>
-      <td><a href="https://doi.org/10.1080/01621459.2020.1764363" target="_blank">China_PM25</a></td>
-      <td>Publisher</td>
-      <td>Environment</td>
-      <td>Clustering</td>
-      <td>338</td>
-      <td>731</td>
-      <td>1</td>
-    </tr>
-    <tr>
-      <td><a href="https://doi.org/10.1080/01621459.2020.1764363" target="_blank">BTH_PM25</a></td>
-      <td>Publisher</td>
-      <td>Environment</td>
-      <td>Clustering</td>
-      <td>73</td>
-      <td>48</td>
-      <td>1</td>
-    </tr>
-  </tbody>
-</table>
+
