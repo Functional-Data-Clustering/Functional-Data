@@ -1,5 +1,5 @@
 # Data
- An open repository of functional data.
+ Lists of functional datasets from different fields of application. (This ongoing project is a bit slow, due to other commitments of the PI.)
  
   
 <table border="1">
