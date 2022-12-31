@@ -15,14 +15,14 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://www.timeseriesclassification.com/description.php?Dataset=UWaveGestureLibrary">UWaveGestureLibrary</a></td>
+      <td><a href="https://www.timeseriesclassification.com/description.php?Dataset=UWaveGestureLibrary" target="_blank">UWaveGestureLibrary</a></td>
       <td>UEA & UCR Time Series Classification Repository</td>
       <td>...</td>
       <td>...</td>
       <td>...</td>
     </tr>
     <tr>
-      <td><a href="https://www.timeseriesclassification.com/description.php?Dataset=ECG200">ECG200</a></td>
+      <td><a href="https://www.timeseriesclassification.com/description.php?Dataset=ECG200" target="_blank">ECG200</a></td>
       <td>UEA & UCR Time Series Classification Repository</td>
       <td>...</td>
       <td>...</td>
