@@ -26,6 +26,15 @@
       <td>1</td>
     </tr>
     <tr>
+      <td><a href="https://doi.org/10.1371/journal.pone.0242197" target="_blank">ARC_mobile</a></td>
+      <td>Publisher</td>
+      <td>Health</td>
+      <td>Clustering</td>
+      <td>26</td>
+      <td>30/40</td>
+      <td>...</td>
+    </tr>
+    <tr>
       <td>...</td>
       <td>...</td>
       <td>...</td>
@@ -63,6 +72,15 @@
       <td>4K+</td>
       <td>315</td>
       <td>3</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/StevenGolovkine/fcubt" target="_blank">roundD</a></td>
+      <td>GitHub</td>
+      <td>Traffic</td>
+      <td>Clustering</td>
+      <td>311</td>
+      <td>vary</td>
+      <td>6</td>
     </tr>
     <tr>
       <td>...</td>
