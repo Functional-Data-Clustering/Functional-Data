@@ -113,10 +113,10 @@
   </thead>
   <tbody>
     <tr>
-      <td>...</td>
-      <td>...</td>
-      <td>...</td>
-      <td>...</td>
+      <td><a href="https://github.com/StevenGolovkine/fcubt" target="_blank">EEG</a></td>
+      <td>UCI Machine Learning Repository</td>
+      <td>EEG</td>
+      <td>Classification</td>
       <td>...</td>
       <td>...</td>
       <td>...</td>
