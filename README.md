@@ -1,4 +1,4 @@
-# Data
+# Functional Data
  Lists of functional datasets from different fields of application. (This ongoing project is a bit slow, due to other commitments of the contributor.)
  
 
