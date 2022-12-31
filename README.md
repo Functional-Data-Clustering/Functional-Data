@@ -121,5 +121,23 @@
       <td>...</td>
       <td>...</td>
     </tr>
+    <tr>
+      <td><a href="https://doi.org/10.1080/01621459.2020.1764363" target="_blank">China_PM25</a></td>
+      <td>Publisher</td>
+      <td>Environment</td>
+      <td>Clustering</td>
+      <td>338</td>
+      <td>731</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="https://doi.org/10.1080/01621459.2020.1764363" target="_blank">BTH_PM25</a></td>
+      <td>Publisher</td>
+      <td>Environment</td>
+      <td>Clustering</td>
+      <td>73</td>
+      <td>48</td>
+      <td>1</td>
+    </tr>
   </tbody>
 </table>
