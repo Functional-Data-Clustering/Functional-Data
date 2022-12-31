@@ -4,7 +4,7 @@
 
 <h2>One-dimensional Functional Data</h2> 
 <table border="1">
-  <thead>
+  <thead align="left">
     <tr>
       <th>Name</th>
       <th>Original Repository</th>
@@ -48,7 +48,7 @@
  <h2>Multi-dimensional Functional Data</h2>
  
  <table border="1">
-  <thead>
+  <thead align="left">
     <tr>
       <th>Dataset Name</th>
       <th>Original Repository</th>
@@ -80,7 +80,7 @@
  <h2>Dependent Functional Data</h2>
  
  <table border="1">
-  <thead>
+  <thead align="left">
     <tr>
       <th>Dataset Name</th>
       <th>Original Repository</th>
