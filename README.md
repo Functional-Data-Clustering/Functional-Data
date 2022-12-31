@@ -1,20 +1,23 @@
 # Data
  Lists of functional datasets from different fields of application. (This ongoing project is a bit slow, due to other commitments of the PI.)
  
-  
+
+<h2>One-dimensional Functional Data</h2> 
 <table border="1">
   <thead>
     <tr>
       <th>Dataset Name</th>
       <th>Original Repository</th>
+      <th>Subject Area</th>
+      <th>Task</th>
       <th>Size</th>
-      <th>...</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><a href="https://www.timeseriesclassification.com/description.php?Dataset=UWaveGestureLibrary">UWaveGestureLibrary</a></td>
       <td>UEA & UCR Time Series Classification Repository</td>
+      <td>...</td>
       <td>...</td>
       <td>...</td>
     </tr>
@@ -23,8 +26,10 @@
       <td>UEA & UCR Time Series Classification Repository</td>
       <td>...</td>
       <td>...</td>
+      <td>...</td>
     </tr>
-       <tr>
+    <tr>
+      <td>...</td>
       <td>...</td>
       <td>...</td>
       <td>...</td>
@@ -36,25 +41,28 @@
 
 
 
- <h2>Vector-Valued Functional Data</h2>
+ <h2>Multi-dimensional Functional Data</h2>
  
  <table border="1">
   <thead>
     <tr>
       <th>Dataset Name</th>
       <th>Original Repository</th>
+      <th>Subject Area</th>
+      <th>Task</th>
       <th>Size</th>
-      <th>...</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://www.timeseriesclassification.com/description.php?Dataset=UWaveGestureLibrary">UWaveGestureLibrary</a></td>
-      <td>UCI Machine Learning Repository</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
       <td>...</td>
       <td>...</td>
     </tr>
     <tr>
+      <td>...</td>
       <td>...</td>
       <td>...</td>
       <td>...</td>
@@ -62,9 +70,4 @@
     </tr>
   </tbody>
 </table>
-
-
- 
- 
-
 
