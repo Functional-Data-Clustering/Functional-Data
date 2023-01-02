@@ -1,5 +1,6 @@
 # Functional Data
- Lists of functional datasets from different fields of application. (This ongoing project is a bit slow, due to other commitments of the contributor.)
+ Lists of open-access functional datasets from different fields of application. For datasets that are from journal publishers, you can find a copy of them in the Data folder.
+ (This ongoing project is a bit slow, due to other commitments of the contributor.)
  
 
 <h2>One-dimensional Functional Data</h2> 
@@ -35,21 +36,12 @@
       <td>...</td>
     </tr>
     <tr>
-      <td><a href="https://doi.org/10.1371/journal.pone.0242197" target="_blank">ARC_mobile</a></td>
+      <td><a href="https://doi.org/10.1371/journal.pone.0242197" target="_blank">ARC_Mobile</a></td>
       <td>Publisher</td>
       <td>Health</td>
       <td>Clustering</td>
       <td>125</td>
       <td>30/40</td>
-      <td>...</td>
-    </tr>
-    <tr>
-      <td><a href="https://archive.ics.uci.edu/ml/datasets/eeg+database" target="_blank">EEG</a></td>
-      <td>UCI Machine Learning Repository</td>
-      <td>EEG</td>
-      <td>Classification</td>
-      <td>...</td>
-      <td>...</td>
       <td>...</td>
     </tr>
     <tr>
@@ -100,6 +92,15 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td><a href="https://archive.ics.uci.edu/ml/datasets/eeg+database" target="_blank">EEG_Full</a></td>
+      <td>UCI Machine Learning Repository</td>
+      <td>Health</td>
+      <td>Classification</td>
+      <td>122</td>
+      <td>256</td>
+      <td>64</td>
+    </tr>
     <tr>
       <td><a href="https://www.timeseriesclassification.com/description.php?Dataset=UWaveGestureLibrary" target="_blank">UWaveGestureLibrary</a></td>
       <td>UEA & UCR Time Series Classification Repository</td>
