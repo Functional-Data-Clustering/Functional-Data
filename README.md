@@ -19,7 +19,7 @@
     <tr>
       <td><a href="https://www.timeseriesclassification.com/description.php?Dataset=ECG200" target="_blank">ECG200</a></td>
       <td>UEA & UCR Time Series Classification Repository</td>
-      <td>ECG</td>
+      <td>Health</td>
       <td>Classification</td>
       <td>200</td>
       <td>96</td>
@@ -28,19 +28,10 @@
     <tr>
       <td><a href="https://www.timeseriesclassification.com/description.php?Dataset=FaceFour" target="_blank">FaceFour</a></td>
       <td>UEA & UCR Time Series Classification Repository</td>
-      <td>Face Outline</td>
+      <td>Image</td>
       <td>Classification</td>
       <td>112</td>
       <td>350</td>
-      <td>...</td>
-    </tr>
-    <tr>
-      <td><a href="https://www.timeseriesclassification.com/description.php?Dataset=Wafer" target="_blank">Wafer</a></td>
-      <td>UEA & UCR Time Series Classification Repository</td>
-      <td>Manufacturing</td>
-      <td>Classification</td>
-      <td>7K+</td>
-      <td>152</td>
       <td>...</td>
     </tr>
     <tr>
@@ -48,12 +39,12 @@
       <td>Publisher</td>
       <td>Health</td>
       <td>Clustering</td>
-      <td>26</td>
+      <td>125</td>
       <td>30/40</td>
       <td>...</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/StevenGolovkine/fcubt" target="_blank">EEG</a></td>
+      <td><a href="https://archive.ics.uci.edu/ml/datasets/eeg+database" target="_blank">EEG</a></td>
       <td>UCI Machine Learning Repository</td>
       <td>EEG</td>
       <td>Classification</td>
