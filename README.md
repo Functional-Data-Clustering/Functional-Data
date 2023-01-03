@@ -19,6 +19,33 @@
   </thead>
   <tbody>
     <tr>
+      <td><a href="https://doi.org/10.1371/journal.pone.0242197" target="_blank">ARC_Mobile</a></td>
+      <td>Publisher</td>
+      <td>Health</td>
+      <td>Clustering</td>
+      <td>125</td>
+      <td>30/40</td>
+      <td>Yes</td>
+    </tr>
+    <tr>
+      <td><a href="https://doi.org/10.1080/01621459.2020.1764363" target="_blank">BTH_PM25</a></td>
+      <td>Publisher</td>
+      <td>Environment</td>
+      <td>Clustering</td>
+      <td>73</td>
+      <td>48</td>
+      <td>Yes</td>
+    </tr>
+    <tr>
+      <td><a href="https://doi.org/10.1080/01621459.2020.1764363" target="_blank">China_PM25</a></td>
+      <td>Publisher</td>
+      <td>Environment</td>
+      <td>Clustering</td>
+      <td>338</td>
+      <td>731</td>
+      <td>Yes</td>
+    </tr>
+    <tr>
       <td><a href="https://www.timeseriesclassification.com/description.php?Dataset=ECG200" target="_blank">ECG200</a></td>
       <td>UEA & UCR Time Series Classification Repository</td>
       <td>Health</td>
@@ -37,31 +64,13 @@
       <td>No</td>
     </tr>
     <tr>
-      <td><a href="https://doi.org/10.1371/journal.pone.0242197" target="_blank">ARC_Mobile</a></td>
-      <td>Publisher</td>
-      <td>Health</td>
-      <td>Clustering</td>
-      <td>125</td>
-      <td>30/40</td>
-      <td>Yes</td>
-    </tr>
-    <tr>
-      <td><a href="https://doi.org/10.1080/01621459.2020.1764363" target="_blank">China_PM25</a></td>
-      <td>Publisher</td>
-      <td>Environment</td>
-      <td>Clustering</td>
-      <td>338</td>
-      <td>731</td>
-      <td>Yes</td>
-    </tr>
-    <tr>
-      <td><a href="https://doi.org/10.1080/01621459.2020.1764363" target="_blank">BTH_PM25</a></td>
-      <td>Publisher</td>
-      <td>Environment</td>
-      <td>Clustering</td>
-      <td>73</td>
-      <td>48</td>
-      <td>Yes</td>
+      <td><a href="https://cran.r-project.org/web/packages/cfda/index.html" target="_blank">Flour</a></td>
+      <td>R (cfda)</td>
+      <td>Food</td>
+      <td>Classification</td>
+      <td>115</td>
+      <td>241</td>
+      <td>No</td>
     </tr>
     <tr>
       <td><a href="http://lib.stat.cmu.edu/datasets/tecator" target="_blank">Tecator</a></td>
@@ -70,15 +79,6 @@
       <td>Classification</td>
       <td>240</td>
       <td>100</td>
-      <td>No</td>
-    </tr>
-    <tr>
-      <td><a href="https://cran.r-project.org/web/packages/cfda/index.html" target="_blank">Flour</a></td>
-      <td>R (cfda)</td>
-      <td>Food</td>
-      <td>Classification</td>
-      <td>115</td>
-      <td>241</td>
       <td>No</td>
     </tr>
     <tr>
