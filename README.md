@@ -71,6 +71,15 @@
       <td>...</td>
     </tr>
     <tr>
+      <td><a href="https://cran.r-project.org/web/packages/cfda/index.html" target="_blank">Flour</a></td>
+      <td>R (cfda)</td>
+      <td>Food</td>
+      <td>Classification</td>
+      <td>115</td>
+      <td>241</td>
+      <td>...</td>
+    </tr>
+    <tr>
       <td>...</td>
       <td>...</td>
       <td>...</td>
