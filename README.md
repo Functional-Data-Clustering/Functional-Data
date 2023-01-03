@@ -1,5 +1,5 @@
 # Functional Data
- Lists of open-access functional datasets from different fields of application. (This ongoing project is a bit slow, due to other commitments of the contributor.)
+ Lists of open-access functional datasets from different fields of application. We only collect data that are for either classification for clustering, not for regression. For datasets that need further processing on the linked data, a copy of them can be found in the Data folder. (This ongoing project is a bit slow, due to other commitments of the contributor.)
  
 
 <h2>One-dimensional Functional Data</h2> 
@@ -59,6 +59,15 @@
       <td>Clustering</td>
       <td>73</td>
       <td>48</td>
+      <td>...</td>
+    </tr>
+    <tr>
+      <td><a href="http://lib.stat.cmu.edu/datasets/tecator" target="_blank">Tecator</a></td>
+      <td>CMU</td>
+      <td>Food</td>
+      <td>Classification</td>
+      <td>240</td>
+      <td>100</td>
       <td>...</td>
     </tr>
     <tr>
