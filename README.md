@@ -141,7 +141,7 @@
     <tr>
       <td><a href="https://www.timeseriesclassification.com/description.php?Dataset=UWaveGestureLibrary" target="_blank">UWaveGestureLibrary</a></td>
       <td>UEA & UCR Time Series Classification Repository</td>
-      <td>Gesture Recognition</td>
+      <td>Gesture</td>
       <td>Classification</td>
       <td>4K+</td>
       <td>315</td>
