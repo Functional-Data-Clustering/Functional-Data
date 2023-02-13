@@ -73,6 +73,15 @@
       <td>No</td>
     </tr>
     <tr>
+      <td><a href="https://hastie.su.domains/ElemStatLearn/" target="_blank">Phoneme</a></td>
+      <td>e-Book (ElemStatLearn)</td>
+      <td>Speech</td>
+      <td>Classification</td>
+      <td>4K+</td>
+      <td>256</td>
+      <td>No</td>
+    </tr>
+    <tr>
       <td><a href="http://lib.stat.cmu.edu/datasets/tecator" target="_blank">Tecator</a></td>
       <td>CMU</td>
       <td>Food</td>
