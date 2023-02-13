@@ -111,6 +111,15 @@
     </tr>
   </thead>
   <tbody>
+      <tr>
+      <td><a href="https://www.nature.com/articles/s41597-020-0386-x" target="_blank">ECG_Arrhythmia </a></td>
+      <td>Publisher</td>
+      <td>Health</td>
+      <td>Classification</td>
+      <td>10K+</td>
+      <td>5000</td>
+      <td>12</td>
+    </tr>
     <tr>
       <td><a href="https://archive.ics.uci.edu/ml/datasets/eeg+database" target="_blank">EEG_Full</a></td>
       <td>UCI Machine Learning Repository</td>
