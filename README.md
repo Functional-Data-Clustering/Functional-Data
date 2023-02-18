@@ -48,7 +48,7 @@
     <tr>
       <td><a href="https://www.timeseriesclassification.com/description.php?Dataset=ECG200" target="_blank">ECG200</a></td>
       <td>UEA & UCR Time Series Classification Repository</td>
-      <td>Health</td>
+      <td>ECG</td>
       <td>Classification</td>
       <td>200</td>
       <td>96</td>
@@ -123,7 +123,7 @@
       <tr>
       <td><a href="https://www.nature.com/articles/s41597-020-0386-x" target="_blank">ECG_Arrhythmia </a></td>
       <td>Publisher</td>
-      <td>Health</td>
+      <td>ECG</td>
       <td>Classification</td>
       <td>10K+</td>
       <td>5000</td>
@@ -132,7 +132,7 @@
     <tr>
       <td><a href="https://archive.ics.uci.edu/ml/datasets/eeg+database" target="_blank">EEG_Full</a></td>
       <td>UCI Machine Learning Repository</td>
-      <td>Health</td>
+      <td>EEG</td>
       <td>Classification</td>
       <td>122</td>
       <td>256</td>
@@ -170,5 +170,12 @@
 
 
 
+We list below a few polular repositories, where you can find more functional datasets for cluster analysis.
+<ul>
+	<li><a href="https://physionet.org/about/database/" target="_blank">PhysioNet</a></li>
+ <li><a href="https://www.timeseriesclassification.com/dataset.php" target="_blank">UEA & UCR Time Series Classification Repository</a></li>
+ <li><a href="..." target="_blank">...</a></li>
+ <li><a href="..." target="_blank">...</a></li>
+</ul>
 
 
