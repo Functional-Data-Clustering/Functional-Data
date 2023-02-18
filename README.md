@@ -170,7 +170,7 @@
 
 
 
-We list below a few polular repositories, where you can find more functional datasets for cluster analysis.
+We list below a few popular repositories, where you can find more functional datasets for cluster analysis.
 <ul>
 	<li><a href="https://physionet.org/about/database/" target="_blank">PhysioNet</a></li>
  <li><a href="https://www.timeseriesclassification.com/dataset.php" target="_blank">UEA & UCR Time Series Classification Repository</a></li>
