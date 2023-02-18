@@ -83,7 +83,7 @@
     </tr>
     <tr>
       <td><a href="http://lib.stat.cmu.edu/datasets/tecator" target="_blank">Tecator</a></td>
-      <td>CMU</td>
+      <td>CMU StatLib</td>
       <td>Food</td>
       <td>Classification</td>
       <td>240</td>
