@@ -30,18 +30,18 @@
     <tr>
       <td><a href="https://www.timeseriesclassification.com/description.php?Dataset=ArrowHead" target="_blank">ArrowHead</a></td>
       <td>UEA & UCR Time Series Classification Repository</td>
-      <td>...</td>
-      <td>...</td>
-      <td>...</td>
+      <td>Image</td>
+      <td>Classification</td>
+      <td>211</td>
       <td>...</td>
       <td>...</td>
     </tr>
     <tr>
       <td><a href="https://www.timeseriesclassification.com/description.php?Dataset=BirdChicken" target="_blank">BirdChicken</a></td>
       <td>UEA & UCR Time Series Classification Repository</td>
-      <td>...</td>
-      <td>...</td>
-      <td>...</td>
+      <td>Image</td>
+      <td>Classification</td>
+      <td>40</td>
       <td>...</td>
       <td>...</td>
     </tr>
@@ -55,15 +55,6 @@
       <td>Yes</td>
     </tr>
     <tr>
-      <td><a href="https://www.timeseriesclassification.com/description.php?Dataset=CBF" target="_blank">CBF</a></td>
-      <td>UEA & UCR Time Series Classification Repository</td>
-      <td>...</td>
-      <td>...</td>
-      <td>...</td>
-      <td>...</td>
-      <td>...</td>
-    </tr>
-    <tr>
       <td><a href="https://doi.org/10.1080/01621459.2020.1764363" target="_blank">China_PM25</a></td>
       <td>Publisher</td>
       <td>Environment</td>
@@ -75,9 +66,9 @@
     <tr>
       <td><a href="https://www.timeseriesclassification.com/description.php?Dataset=DiatomSizeReduction" target="_blank">DiatomSizeReduction</a></td>
       <td>UEA & UCR Time Series Classification Repository</td>
-      <td>...</td>
-      <td>...</td>
-      <td>...</td>
+      <td>Image</td>
+      <td>Classification</td>
+      <td>322</td>
       <td>...</td>
       <td>...</td>
     </tr>
@@ -111,18 +102,18 @@
     <tr>
       <td><a href="https://www.timeseriesclassification.com/description.php?Dataset=GunPoint" target="_blank">GunPoint</a></td>
       <td>UEA & UCR Time Series Classification Repository</td>
-      <td>...</td>
-      <td>...</td>
-      <td>...</td>
+      <td>Motion</td>
+      <td>Classification</td>
+      <td>200</td>
       <td>...</td>
       <td>...</td>
     </tr>
     <tr>
       <td><a href="https://www.timeseriesclassification.com/description.php?Dataset=Meat" target="_blank">Meat</a></td>
       <td>UEA & UCR Time Series Classification Repository</td>
-      <td>...</td>
-      <td>...</td>
-      <td>...</td>
+      <td>Spectro</td>
+      <td>Classification</td>
+      <td>120</td>
       <td>...</td>
       <td>...</td>
     </tr>
@@ -138,18 +129,18 @@
     <tr>
       <td><a href="https://www.timeseriesclassification.com/description.php?Dataset=Strawberry" target="_blank">Strawberry</a></td>
       <td>UEA & UCR Time Series Classification Repository</td>
-      <td>...</td>
-      <td>...</td>
-      <td>...</td>
+      <td>Spectro</td>
+      <td>Classification</td>
+      <td>983</td>
       <td>...</td>
       <td>...</td>
     </tr>
     <tr>
       <td><a href="https://www.timeseriesclassification.com/description.php?Dataset=Symbols" target="_blank">Symbols</a></td>
       <td>UEA & UCR Time Series Classification Repository</td>
-      <td>...</td>
-      <td>...</td>
-      <td>...</td>
+      <td>Image</td>
+      <td>Classification</td>
+      <td>1020</td>
       <td>...</td>
       <td>...</td>
     </tr>
