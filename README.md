@@ -33,8 +33,8 @@
       <td>Image</td>
       <td>Classification</td>
       <td>211</td>
-      <td>...</td>
-      <td>...</td>
+      <td>251</td>
+      <td>No</td>
     </tr>
     <tr>
       <td><a href="https://www.timeseriesclassification.com/description.php?Dataset=BirdChicken" target="_blank">BirdChicken</a></td>
@@ -42,8 +42,8 @@
       <td>Image</td>
       <td>Classification</td>
       <td>40</td>
-      <td>...</td>
-      <td>...</td>
+      <td>512</td>
+      <td>No</td>
     </tr>
     <tr>
       <td><a href="https://doi.org/10.1080/01621459.2020.1764363" target="_blank">BTH_PM25</a></td>
@@ -69,8 +69,8 @@
       <td>Image</td>
       <td>Classification</td>
       <td>322</td>
-      <td>...</td>
-      <td>...</td>
+      <td>345</td>
+      <td>No</td>
     </tr>
     <tr>
       <td><a href="https://www.timeseriesclassification.com/description.php?Dataset=ECG200" target="_blank">ECG200</a></td>
@@ -105,8 +105,8 @@
       <td>Motion</td>
       <td>Classification</td>
       <td>200</td>
-      <td>...</td>
-      <td>...</td>
+      <td>150</td>
+      <td>No</td>
     </tr>
     <tr>
       <td><a href="https://www.timeseriesclassification.com/description.php?Dataset=Meat" target="_blank">Meat</a></td>
@@ -114,8 +114,8 @@
       <td>Spectro</td>
       <td>Classification</td>
       <td>120</td>
-      <td>...</td>
-      <td>...</td>
+      <td>448</td>
+      <td>No</td>
     </tr>
     <tr>
       <td><a href="https://hastie.su.domains/ElemStatLearn/" target="_blank">Phoneme</a></td>
@@ -132,17 +132,17 @@
       <td>Spectro</td>
       <td>Classification</td>
       <td>983</td>
-      <td>...</td>
-      <td>...</td>
+      <td>235</td>
+      <td>No</td>
     </tr>
     <tr>
       <td><a href="https://www.timeseriesclassification.com/description.php?Dataset=Symbols" target="_blank">Symbols</a></td>
       <td>UEA & UCR Time Series Classification Repository</td>
       <td>Image</td>
       <td>Classification</td>
-      <td>1020</td>
-      <td>...</td>
-      <td>...</td>
+      <td>1K+</td>
+      <td>398</td>
+      <td>No</td>
     </tr>
     <tr>
       <td><a href="http://lib.stat.cmu.edu/datasets/tecator" target="_blank">Tecator</a></td>
