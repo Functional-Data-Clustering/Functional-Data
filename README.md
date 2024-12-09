@@ -30,7 +30,7 @@
     <tr>
       <td><a href="https://www.timeseriesclassification.com/description.php?Dataset=ArrowHead" target="_blank">ArrowHead</a></td>
       <td>UEA & UCR Time Series Classification Repository</td>
-      <td>Image</td>
+      <td>Computer Vision</td>
       <td>Classification</td>
       <td>211</td>
       <td>251</td>
@@ -39,7 +39,7 @@
     <tr>
       <td><a href="https://www.timeseriesclassification.com/description.php?Dataset=BirdChicken" target="_blank">BirdChicken</a></td>
       <td>UEA & UCR Time Series Classification Repository</td>
-      <td>Image</td>
+      <td>Computer Vision</td>
       <td>Classification</td>
       <td>40</td>
       <td>512</td>
@@ -66,7 +66,7 @@
     <tr>
       <td><a href="https://www.timeseriesclassification.com/description.php?Dataset=DiatomSizeReduction" target="_blank">DiatomSizeReduction</a></td>
       <td>UEA & UCR Time Series Classification Repository</td>
-      <td>Image</td>
+      <td>Bioinformatics</td>
       <td>Classification</td>
       <td>322</td>
       <td>345</td>
@@ -84,7 +84,7 @@
     <tr>
       <td><a href="https://www.timeseriesclassification.com/description.php?Dataset=FaceFour" target="_blank">FaceFour</a></td>
       <td>UEA & UCR Time Series Classification Repository</td>
-      <td>Image</td>
+      <td>Computer Vision</td>
       <td>Classification</td>
       <td>112</td>
       <td>350</td>
@@ -111,7 +111,7 @@
     <tr>
       <td><a href="https://www.timeseriesclassification.com/description.php?Dataset=Meat" target="_blank">Meat</a></td>
       <td>UEA & UCR Time Series Classification Repository</td>
-      <td>Spectro</td>
+      <td>Food</td>
       <td>Classification</td>
       <td>120</td>
       <td>448</td>
@@ -129,7 +129,7 @@
     <tr>
       <td><a href="https://www.timeseriesclassification.com/description.php?Dataset=Strawberry" target="_blank">Strawberry</a></td>
       <td>UEA & UCR Time Series Classification Repository</td>
-      <td>Spectro</td>
+      <td>Food</td>
       <td>Classification</td>
       <td>983</td>
       <td>235</td>
@@ -138,7 +138,7 @@
     <tr>
       <td><a href="https://www.timeseriesclassification.com/description.php?Dataset=Symbols" target="_blank">Symbols</a></td>
       <td>UEA & UCR Time Series Classification Repository</td>
-      <td>Image</td>
+      <td>Computer Vision</td>
       <td>Classification</td>
       <td>1K+</td>
       <td>398</td>
