@@ -1,5 +1,5 @@
 # Functional Data for Cluster Analysis
- Lists of open-access functional datasets from different fields of application. We only collect data that can be used (and have been used) for cluster analysis. The main objective is to facilitate comparing with existing clustering methods (for functional data) and evaluating new clustering methods. A recent comprehensive review of clustering methods for functional data is available <a href="https://dl.acm.org/doi/full/10.1145/3581789" target="_blank">here</a>.
+ Lists of open-access functional datasets from different fields of application. We only collect data that can be used for cluster analysis. The main objective is to facilitate comparing with existing clustering methods (for functional data) and evaluating new clustering methods. A recent comprehensive review of clustering methods for functional data is available <a href="https://dl.acm.org/doi/full/10.1145/3581789" target="_blank">here</a>.
  
  For datasets that need further processing on the linked data, a copy of them can be found in the Data folder. (This ongoing project is a bit slow, due to other commitments of the contributor.)
  
@@ -28,7 +28,7 @@
       <td>Yes</td>
     </tr>
     <tr>
-      <td>ArrowHead</td>
+      <td><a href="https://www.timeseriesclassification.com/description.php?Dataset=ArrowHead" target="_blank">ArrowHead</a></td>
       <td>UEA & UCR Time Series Classification Repository</td>
       <td>...</td>
       <td>...</td>
@@ -37,7 +37,7 @@
       <td>...</td>
     </tr>
     <tr>
-      <td>BirdChicken</td>
+      <td><a href="https://www.timeseriesclassification.com/description.php?Dataset=BirdChicken" target="_blank">BirdChicken</a></td>
       <td>UEA & UCR Time Series Classification Repository</td>
       <td>...</td>
       <td>...</td>
@@ -55,7 +55,7 @@
       <td>Yes</td>
     </tr>
     <tr>
-      <td>CBF</td>
+      <td><a href="https://www.timeseriesclassification.com/description.php?Dataset=CBF" target="_blank">CBF</a></td>
       <td>UEA & UCR Time Series Classification Repository</td>
       <td>...</td>
       <td>...</td>
@@ -73,7 +73,7 @@
       <td>Yes</td>
     </tr>
     <tr>
-      <td>DiatomSizeReduction</td>
+      <td><a href="https://www.timeseriesclassification.com/description.php?Dataset=DiatomSizeReduction" target="_blank">DiatomSizeReduction</a></td>
       <td>UEA & UCR Time Series Classification Repository</td>
       <td>...</td>
       <td>...</td>
@@ -109,7 +109,7 @@
       <td>No</td>
     </tr>
     <tr>
-      <td>GunPoint</td>
+      <td><a href="https://www.timeseriesclassification.com/description.php?Dataset=GunPoint" target="_blank">GunPoint</a></td>
       <td>UEA & UCR Time Series Classification Repository</td>
       <td>...</td>
       <td>...</td>
@@ -118,7 +118,7 @@
       <td>...</td>
     </tr>
     <tr>
-      <td>Meat</td>
+      <td><a href="https://www.timeseriesclassification.com/description.php?Dataset=Meat" target="_blank">Meat</a></td>
       <td>UEA & UCR Time Series Classification Repository</td>
       <td>...</td>
       <td>...</td>
@@ -136,7 +136,7 @@
       <td>No</td>
     </tr>
     <tr>
-      <td>Strawberry</td>
+      <td><a href="https://www.timeseriesclassification.com/description.php?Dataset=Strawberry" target="_blank">Strawberry</a></td>
       <td>UEA & UCR Time Series Classification Repository</td>
       <td>...</td>
       <td>...</td>
@@ -145,7 +145,7 @@
       <td>...</td>
     </tr>
     <tr>
-      <td>Symbols</td>
+      <td><a href="https://www.timeseriesclassification.com/description.php?Dataset=Symbols" target="_blank">Symbols</a></td>
       <td>UEA & UCR Time Series Classification Repository</td>
       <td>...</td>
       <td>...</td>
