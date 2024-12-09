@@ -1,5 +1,5 @@
 # Functional Data for Cluster Analysis
- Lists of open-access functional datasets from different fields of application. We only collect data that can be used for cluster analysis. The main objective is to facilitate comparing with existing clustering methods (for functional data) and evaluating new clustering methods. A recent comprehensive review of clustering methods for functional data is available <a href="https://arxiv.org/abs/2210.00847" target="_blank">here</a>.
+ Lists of open-access functional datasets from different fields of application. We only collect data that can be used for cluster analysis. The main objective is to facilitate comparing with existing clustering methods (for functional data) and evaluating new clustering methods. A recent comprehensive review of clustering methods for functional data is available <a href="https://dl.acm.org/doi/full/10.1145/3581789" target="_blank">here</a>.
  
  For datasets that need further processing on the linked data, a copy of them can be found in the Data folder. (This ongoing project is a bit slow, due to other commitments of the contributor.)
  
