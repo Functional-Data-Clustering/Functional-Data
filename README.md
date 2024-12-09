@@ -1,5 +1,5 @@
 # Functional Data for Cluster Analysis
- Lists of open-access functional datasets from different fields of application. We only collect data that can be used for cluster analysis. The main objective is to facilitate comparing with existing clustering methods (for functional data) and evaluating new clustering methods. A recent comprehensive review of clustering methods for functional data is available <a href="https://dl.acm.org/doi/full/10.1145/3581789" target="_blank">here</a>.
+ Lists of open-access functional datasets from different fields of application. We only collect data that can be used (and have been used) for cluster analysis. The main objective is to facilitate comparing with existing clustering methods (for functional data) and evaluating new clustering methods. A recent comprehensive review of clustering methods for functional data is available <a href="https://dl.acm.org/doi/full/10.1145/3581789" target="_blank">here</a>.
  
  For datasets that need further processing on the linked data, a copy of them can be found in the Data folder. (This ongoing project is a bit slow, due to other commitments of the contributor.)
  
@@ -28,6 +28,24 @@
       <td>Yes</td>
     </tr>
     <tr>
+      <td>ArrowHead</td>
+      <td>UEA & UCR Time Series Classification Repository</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+    </tr>
+    <tr>
+      <td>BirdChicken</td>
+      <td>UEA & UCR Time Series Classification Repository</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+    </tr>
+    <tr>
       <td><a href="https://doi.org/10.1080/01621459.2020.1764363" target="_blank">BTH_PM25</a></td>
       <td>Publisher</td>
       <td>Environment</td>
@@ -37,6 +55,15 @@
       <td>Yes</td>
     </tr>
     <tr>
+      <td>CBF</td>
+      <td>UEA & UCR Time Series Classification Repository</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+    </tr>
+    <tr>
       <td><a href="https://doi.org/10.1080/01621459.2020.1764363" target="_blank">China_PM25</a></td>
       <td>Publisher</td>
       <td>Environment</td>
@@ -44,6 +71,15 @@
       <td>338</td>
       <td>731</td>
       <td>Yes</td>
+    </tr>
+    <tr>
+      <td>DiatomSizeReduction</td>
+      <td>UEA & UCR Time Series Classification Repository</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
     </tr>
     <tr>
       <td><a href="https://www.timeseriesclassification.com/description.php?Dataset=ECG200" target="_blank">ECG200</a></td>
@@ -73,6 +109,24 @@
       <td>No</td>
     </tr>
     <tr>
+      <td>GunPoint</td>
+      <td>UEA & UCR Time Series Classification Repository</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+    </tr>
+    <tr>
+      <td>Meat</td>
+      <td>UEA & UCR Time Series Classification Repository</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+    </tr>
+    <tr>
       <td><a href="https://hastie.su.domains/ElemStatLearn/" target="_blank">Phoneme</a></td>
       <td>e-Book (ElemStatLearn)</td>
       <td>Speech</td>
@@ -80,6 +134,24 @@
       <td>4K+</td>
       <td>256</td>
       <td>No</td>
+    </tr>
+    <tr>
+      <td>Strawberry</td>
+      <td>UEA & UCR Time Series Classification Repository</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+    </tr>
+    <tr>
+      <td>Symbols</td>
+      <td>UEA & UCR Time Series Classification Repository</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
+      <td>...</td>
     </tr>
     <tr>
       <td><a href="http://lib.stat.cmu.edu/datasets/tecator" target="_blank">Tecator</a></td>
