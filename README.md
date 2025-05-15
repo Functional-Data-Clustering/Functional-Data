@@ -100,6 +100,15 @@
       <td>No</td>
     </tr>
     <tr>
+      <td><a href="https://www.timeseriesclassification.com/description.php?Dataset=Fungi" target="_blank">Fungi</a></td>
+      <td>UEA & UCR ...</td>
+      <td>Bioinformatics</td>
+      <td>Classification</td>
+      <td>204</td>
+      <td>201</td>
+      <td>No</td>
+    </tr>
+    <tr>
       <td><a href="https://www.timeseriesclassification.com/description.php?Dataset=GunPoint" target="_blank">GunPoint</a></td>
       <td>UEA & UCR Time Series Classification Repository</td>
       <td>Motion</td>
@@ -115,6 +124,15 @@
       <td>Classification</td>
       <td>120</td>
       <td>448</td>
+      <td>No</td>
+    </tr>
+     <tr>
+      <td><a href="https://www.timeseriesclassification.com/description.php?Dataset=Plane" target="_blank">Plane</a></td>
+      <td>UEA & UCR ...</td>
+      <td>Shape</td>
+      <td>Classification</td>
+      <td>210</td>
+      <td>144</td>
       <td>No</td>
     </tr>
     <tr>
