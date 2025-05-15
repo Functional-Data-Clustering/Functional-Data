@@ -183,6 +183,24 @@
     </tr>
   </thead>
   <tbody>
+       <tr>
+      <td><a href="https://www.timeseriesclassification.com/description.php?Dataset=BasicMotions" target="_blank">BasicMotions</a></td>
+      <td>UEA & UCR Time Series Classification Repository</td>
+      <td>Motion</td>
+      <td>Classification</td>
+      <td>80</td>
+      <td>100</td>
+      <td>6</td>
+    </tr>
+     <tr>
+      <td><a href="https://www.timeseriesclassification.com/description.php?Dataset=Blink" target="_blank">Blink</a></td>
+      <td>UEA & UCR ...</td>
+      <td>EEG</td>
+      <td>Classification</td>
+      <td>950</td>
+      <td>510</td>
+      <td>4</td>
+    </tr>
       <tr>
       <td><a href="https://www.nature.com/articles/s41597-020-0386-x" target="_blank">ECG_Arrhythmia </a></td>
       <td>Publisher</td>
@@ -202,8 +220,35 @@
       <td>64</td>
     </tr>
     <tr>
+      <td><a href="https://www.timeseriesclassification.com/description.php?Dataset=Epilepsy" target="_blank">Epilepsy</a></td>
+      <td>UEA & UCR ...</td>
+      <td>Motion</td>
+      <td>Classification</td>
+      <td>275</td>
+      <td>207</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.timeseriesclassification.com/description.php?Dataset=ERing" target="_blank">ERing</a></td>
+      <td>UEA & UCR ...</td>
+      <td>Gesture</td>
+      <td>Classification</td>
+      <td>300</td>
+      <td>65</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.timeseriesclassification.com/description.php?Dataset=EyesOpenShut" target="_blank">EyesOpenShut</a></td>
+      <td>UEA & UCR ...</td>
+      <td>EEG</td>
+      <td>Classification</td>
+      <td>98</td>
+      <td>128</td>
+      <td>14</td>
+    </tr>
+     <tr>
       <td><a href="https://www.timeseriesclassification.com/description.php?Dataset=UWaveGestureLibrary" target="_blank">UWaveGestureLibrary</a></td>
-      <td>UEA & UCR Time Series Classification Repository</td>
+      <td>UEA & UCR ...</td>
       <td>Gesture</td>
       <td>Classification</td>
       <td>4K+</td>
