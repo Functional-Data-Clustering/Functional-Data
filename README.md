@@ -171,15 +171,6 @@
       <td>100</td>
       <td>No</td>
     </tr>
-    <tr>
-      <td>...</td>
-      <td>...</td>
-      <td>...</td>
-      <td>...</td>
-      <td>...</td>
-      <td>...</td>
-      <td>...</td>
-    </tr>
   </tbody>
 </table>
 
@@ -265,6 +256,15 @@
       <td>14</td>
     </tr>
      <tr>
+      <td><a href="https://archive.ics.uci.edu/dataset/128/japanese+vowels" target="_blank">Japanese_Vowels</a></td>
+      <td>UCI Machine Learning Repository</td>
+      <td>Speech</td>      
+      <td>Classification</td>
+      <td>640</td>
+      <td>29</td>
+      <td>12</td>
+    </tr>
+     <tr>
       <td><a href="https://www.timeseriesclassification.com/description.php?Dataset=UWaveGestureLibrary" target="_blank">UWaveGestureLibrary</a></td>
       <td>UEA & UCR ...</td>
       <td>Gesture</td>
@@ -273,6 +273,25 @@
       <td>315</td>
       <td>3</td>
     </tr>
+  </tbody>
+</table>
+
+
+ <h2>Manifold-valued Functional Data</h2>
+ 
+ <table border="1">
+  <thead align="left">
+    <tr>
+      <th>Name</th>
+      <th>Available at</th>
+      <th>Field</th>
+      <th>Task</th>
+      <th>Size</th>
+      <th>Length</th>
+      <th>Dimension</th>
+    </tr>
+  </thead>
+  <tbody>
     <tr>
       <td>...</td>
       <td>...</td>
@@ -293,8 +312,6 @@
     </tr>
   </tbody>
 </table>
-
-
 
 We list below a few popular repositories, where you can find more functional datasets for cluster analysis.
 <ul>
