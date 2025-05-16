@@ -294,7 +294,7 @@
   <tbody>
     <tr>
       <td>Hypersphere</td>
-      <td>Data</td>
+      <td>Data/Manifold</td>
       <td>simulated</td>
       <td>Clustering</td>
       <td>...</td>
@@ -303,7 +303,7 @@
     </tr>
     <tr>
       <td>Hyperbolic</td>
-      <td>Data</td>
+      <td>Data/Manifold</td>
       <td>simulated</td>
       <td>Clustering</td>
       <td>...</td>
@@ -312,7 +312,7 @@
     </tr>
        <tr>
       <td>Lorenz</td>
-      <td>Data</td>
+      <td>Data/Manifold</td>
       <td>simulated</td>
       <td>Clustering</td>
       <td>...</td>
@@ -321,7 +321,7 @@
     </tr>
        <tr>
       <td>Pendulum</td>
-      <td>Data</td>
+      <td>Data/Manifold</td>
       <td>simulated</td>
       <td>Clustering</td>
       <td>...</td>
@@ -330,7 +330,7 @@
     </tr>
     <tr>
       <td>Swiss _Roll</td>
-      <td>Data</td>
+      <td>Data/Manifold</td>
       <td>Simulated</td>
       <td>Clustering</td>
       <td>...</td>
