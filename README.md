@@ -255,6 +255,15 @@
       <td>128</td>
       <td>14</td>
     </tr>
+    <tr>
+      <td><a href="https://www.timeseriesclassification.com/description.php?Dataset=FingerMovements" target="_blank">FingerMovements</a></td>
+      <td>UEA & UCR ...</td>
+      <td>EEG</td>      
+      <td>Classification</td>
+      <td>416</td>
+      <td>50</td>
+      <td>28</td>
+    </tr>
      <tr>
       <td><a href="https://archive.ics.uci.edu/dataset/128/japanese+vowels" target="_blank">Japanese_Vowels</a></td>
       <td>UCI Machine Learning Repository</td>
