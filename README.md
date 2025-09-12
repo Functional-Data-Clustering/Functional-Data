@@ -296,7 +296,7 @@ We provided a Python generator for manifold-valued functional data. It can simul
 - Lorenz (chaotic attractor, up to 3D)
 - Pendulum (simple pendulum dynamics, up to 3D)
 
-Each dataset is a collection of multi-dimensional functions that evolve along a specified manifold or dynamical system. The generator script lives in the `Data/Manifold/` directory as `manifold_valued_data_generator.py`. You can import it or run it directly. This generator was used in our NeurIPS <a href=" " target="_blank">work</a> to evaluate <a href="https://github.com/samuelveersingh/FAE" target="_blank">FAEclust</a>.
+Each dataset is a collection of multi-dimensional functions that evolve along a specified manifold or dynamical system. The generator script lives in the `Data/Manifold/` directory as `manifold_valued_data_generator.py`. You can import it or run it directly. This generator was used in our <a href=" " target="_blank">NeurIPS work</a> to evaluate <a href="https://github.com/samuelveersingh/FAE" target="_blank">FAEclust</a>.
 
  **Outputs & Shapes**
 - `X.shape = (n_samples, n_features, n_steps)`: multivariate time series laid out as `[sample, feature, time]`.
