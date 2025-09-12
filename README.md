@@ -292,9 +292,9 @@ We provided a Python generator for manifold-valued functional data. It can simul
 
 - Hypersphere (unit sphere trajectories)
 - Hyperbolic (Poincaré ball model)
-- Swiss roll (3D Swiss-roll curves)
-- Lorenz (chaotic attractor)
-- Pendulum (simple pendulum dynamics)
+- Swiss roll (Swiss-roll curves, up to 3D)
+- Lorenz (chaotic attractor, up to 3D)
+- Pendulum (simple pendulum dynamics, up to 3D)
 
 Each dataset is a collection of multi-dimensional functions that evolve along a specified manifold or dynamical system. The generator script lives in the `Data/Manifold/` directory as `manifold_valued_data_generator.py`. You can import it or run it directly.
 
