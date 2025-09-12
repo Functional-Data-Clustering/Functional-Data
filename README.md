@@ -288,47 +288,29 @@
 
  <h2>Manifold-valued Functional Data</h2>
 
- In the Data folder, we provided a Python 
+We provided a Python generator for manifold-valued functional data. It can simulate five families of trajectories:
 
-```python 
+- Hypersphere (unit sphere trajectories)
+- Hyperbolic (Poincaré ball model)
+- Swiss roll (3D Swiss-roll curves)
+- Lorenz (chaotic attractor)
+- Pendulum (simple pendulum dynamics)
 
-if __name__ == "__main__":
-output_dir = os.path.join(os.getcwd(), "datasets")
-os.makedirs(output_dir, exist_ok=True)
+Each dataset is a collection of multi-dimensional functions that evolve along a specified manifold or dynamical system. The generator script lives in the `Data/` directory as `manifold_valued_data_generator.py`. You can import it or run it directly.
 
+ ### Outputs & Shapes
+- `X.shape = (n_samples, n_features, n_steps)`: multivariate time series laid out as `[sample, feature, time]`.
+- `y.shape = (n_samples,)`: integer labels (`0 … n_clusters-1`) for cluster/dynamics identity.
 
-# specs: (dataset_name, n_samples, n_features, n_steps, n_clusters)
-specs = [
-("hypersphere", 100, 3, 100, 2),
-("hyperbolic", 200, 2, 50, 2),
-("swiss_roll", 300, 2, 200, 4),
-("lorenz", 100, 3, 100, 3),
-("pendulum", 200, 2, 100, 4),
-]
+### Key Parameters
+- `n_samples`: number of time series (functions) to generate.
+- `n_features`: dimensionality per time step (e.g., 2D, 3D coordinates).
+- `n_steps`: length (number of time points) in each trajectory.
+- `n_clusters`: number of distinct clusters/dynamics per dataset.
+- `base_noise` (optional): small perturbations; useful for realism.
+- `seed` (optional): random seed for reproducibility.
 
+To change the size of a dataset (e.g., more functions), edit the corresponding tuple in `specs` — no other code changes needed.
 
-for name, n_samples, n_features, n_steps, n_clusters in specs:
-print(
-f"Generating {name}: (n={n_samples}, d={n_features}, T={n_steps}, {n_clusters} clusters)"
-)
-gen = DatasetGenerator(n_samples, n_features, n_steps, n_clusters, base_noise=0.02, seed=0)
-X, y = getattr(gen, f"generate_{name}")()
-# Plot the SAME data we just generated (no hidden regeneration)
-gen.plot_dataset(name=name, X=X, y=y, max_traj=150)
-# Save if desired
-# fp = os.path.join(output_dir, f"{name}.csv")
-# DatasetGenerator.save_dataset(X, y, fp)
-
-```
- 
-
-We list below a few popular repositories, where you can find more functional datasets for cluster analysis.
-<ul>
- <li><a href="https://physionet.org/about/database/" target="_blank">PhysioNet</a></li>
- <li><a href="https://www.ncei.noaa.gov/access/search/index" target="_blank">National Centers for Environmental Information</a></li>
- <li><a href="https://ess-dive.lbl.gov/" target="_blank">ESS-DIVE</a></li>
- <li><a href="..." target="_blank">...</a></li>
- <li><a href="..." target="_blank">...</a></li>
-</ul>
 
 
