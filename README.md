@@ -298,11 +298,11 @@ We provided a Python generator for manifold-valued functional data. It can simul
 
 Each dataset is a collection of multi-dimensional functions that evolve along a specified manifold or dynamical system. The generator script lives in the `Data/` directory as `manifold_valued_data_generator.py`. You can import it or run it directly.
 
- ### Outputs & Shapes
+ **Outputs & Shapes**
 - `X.shape = (n_samples, n_features, n_steps)`: multivariate time series laid out as `[sample, feature, time]`.
 - `y.shape = (n_samples,)`: integer labels (`0 … n_clusters-1`) for cluster/dynamics identity.
 
-### Key Parameters
+ **Key Parameters**
 - `n_samples`: number of time series (functions) to generate.
 - `n_features`: dimensionality per time step (e.g., 2D, 3D coordinates).
 - `n_steps`: length (number of time points) in each trajectory.
