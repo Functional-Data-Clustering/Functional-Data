@@ -287,76 +287,40 @@
 
 
  <h2>Manifold-valued Functional Data</h2>
+
+ In the Data folder, we provided a Python 
+
+```python 
+
+if __name__ == "__main__":
+output_dir = os.path.join(os.getcwd(), "datasets")
+os.makedirs(output_dir, exist_ok=True)
+
+
+# specs: (dataset_name, n_samples, n_features, n_steps, n_clusters)
+specs = [
+("hypersphere", 100, 3, 100, 2),
+("hyperbolic", 200, 2, 50, 2),
+("swiss_roll", 300, 2, 200, 4),
+("lorenz", 100, 3, 100, 3),
+("pendulum", 200, 2, 100, 4),
+]
+
+
+for name, n_samples, n_features, n_steps, n_clusters in specs:
+print(
+f"Generating {name}: (n={n_samples}, d={n_features}, T={n_steps}, {n_clusters} clusters)"
+)
+gen = DatasetGenerator(n_samples, n_features, n_steps, n_clusters, base_noise=0.02, seed=0)
+X, y = getattr(gen, f"generate_{name}")()
+# Plot the SAME data we just generated (no hidden regeneration)
+gen.plot_dataset(name=name, X=X, y=y, max_traj=150)
+# Save if desired
+# fp = os.path.join(output_dir, f"{name}.csv")
+# DatasetGenerator.save_dataset(X, y, fp)
+
+```
  
- <table border="1">
-  <thead align="left">
-    <tr>
-      <th>Name</th>
-      <th>Available at</th>
-      <th>Field</th>
-      <th>Task</th>
-      <th>Size</th>
-      <th>Length</th>
-      <th>Dimension</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Hypersphere</td>
-      <td>Data/Manifold</td>
-      <td>simulated</td>
-      <td>Clustering</td>
-      <td>...</td>
-      <td>...</td>
-      <td>...</td>
-    </tr>
-    <tr>
-      <td>Hyperbolic</td>
-      <td>Data/Manifold</td>
-      <td>simulated</td>
-      <td>Clustering</td>
-      <td>...</td>
-      <td>...</td>
-      <td>...</td>
-    </tr>
-       <tr>
-      <td>Lorenz</td>
-      <td>Data/Manifold</td>
-      <td>simulated</td>
-      <td>Clustering</td>
-      <td>...</td>
-      <td>...</td>
-      <td>...</td>
-    </tr>
-       <tr>
-      <td>Pendulum</td>
-      <td>Data/Manifold</td>
-      <td>simulated</td>
-      <td>Clustering</td>
-      <td>...</td>
-      <td>...</td>
-      <td>...</td>
-    </tr>
-    <tr>
-      <td>Swiss _Roll</td>
-      <td>Data/Manifold</td>
-      <td>Simulated</td>
-      <td>Clustering</td>
-      <td>...</td>
-      <td>...</td>
-      <td>...</td>
-    </tr>
-     <tr>
-      <td>...</td>
-      <td>...</td>
-      <td>...</td>
-      <td>...</td>
-      <td>...</td>
-      <td>...</td>
-      <td>...</td>
-    </tr>
-  </tbody>
-</table>
 
 We list below a few popular repositories, where you can find more functional datasets for cluster analysis.
 <ul>
