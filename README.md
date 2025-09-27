@@ -286,7 +286,7 @@
 </table>
 
 
- <h2>Manifold-valued Functional Data</h2>
+ <h2>Manifold-valued Functional Data (simulated)</h2>
 
 We provided a Python generator for manifold-valued functional data. It can simulate five families of trajectories:
 
@@ -313,5 +313,6 @@ Each dataset is a collection of multi-dimensional functions that evolve along a 
 To change the size of a dataset (e.g., more functions), edit the corresponding tuple in `specs` - no other code changes needed.
 
 
+ <h2>Manifold-valued Functional Data (real)</h2>
 
-
+Coming soon ...
